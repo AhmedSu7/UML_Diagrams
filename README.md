@@ -2,6 +2,7 @@
 
 
 The PDF document includes 3 diagrams that representing the process of the robot’s system and the functions of the physical parts in Rating Robot. 
+
 1- Use Case Diagram
 
 2- Sequence Diagram
